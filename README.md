@@ -5,5 +5,8 @@
 - Home
     - About me
     - Projects
+        - Project 01
+        - Project 02
+        - Project 03
     - Contact me
     - Skills/Experience/etc
